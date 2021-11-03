@@ -1,4 +1,14 @@
 # Certifications
 In this repo you can see the list of my certifications awarded. 
 
-I am currently focusing on improving my programming skills to take my first steps into the world of data science.
+I'm currently focusing on improving my programming skills to take my first steps into the world of data science.
+
+
+## Datacamp
+
+- [Data Scientist with R career track](https://www.datacamp.com/tracks/data-scientist-with-r)
+- [Data Analyst with R career track](https://www.datacamp.com/tracks/data-analyst-with-r)
+- [SQL Fundamentals skill track](https://www.datacamp.com/tracks/sql-fundamentals)
+- [SQL Seerver Fundamentals skill track](https://www.datacamp.com/tracks/sql-server-fundamentals)
+- [Programmer with R career track](https://www.datacamp.com/tracks/r-programmer)
+- [Machine Learning Scientist with R career track](https://www.datacamp.com/tracks/machine-learning-scientist-with-r)
